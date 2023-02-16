@@ -220,7 +220,7 @@ extern "C" {
 #elif BOARD == SAMG53_XPLAINED_PRO
 #  include "samg53_xplained_pro/samg53_xplained_pro.h"
 #elif BOARD == SAMG55_XPLAINED_PRO
-#  include "samg55_xplained_pro/samg55_xplained_pro.h"
+#  include "TARGET_SAMG55J19/SAMG55_XPLAINED_PRO/samg55_xplained_pro.h"
 #elif BOARD == XMEGA_B1_XPLAINED
 #  include "xmega_b1_xplained/xmega_b1_xplained.h"
 #elif BOARD == STK600_RC064X_LCDX
